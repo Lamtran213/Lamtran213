@@ -15,7 +15,7 @@
 ## 📄 View My Resume
 
 <div align="center">
-  <a href="https://daskvxrvlbcuzvvwxcyq.supabase.co/storage/v1/object/public/MyCertificates/cv/TranVietTraLam.pdf" target="_blank">
+  <a href="https://daskvxrvlbcuzvvwxcyq.supabase.co/storage/v1/object/public/MyCertificates/cv/TranVietTraLamCV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume PDF">
   </a>
 </div>
