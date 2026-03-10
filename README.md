@@ -26,7 +26,7 @@
 ## 📄 Resume
 
 <div align="center">
-  <a href="https://ysafyqmiutvhohvsthnt.supabase.co/storage/v1/object/public/Lamtran213/Tran-Viet-Tra-Lam-CV.vn.pdf" target="_blank">
+  <a href="https://ysafyqmiutvhohvsthnt.supabase.co/storage/v1/object/public/Lamtran213/Tran-Viet-Tra-Lam.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume" />
   </a>
 </div>
